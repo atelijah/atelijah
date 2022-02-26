@@ -1,0 +1,3 @@
+- 👋 Hi, I’m ELIJAH.
+- 👀 I’m interested in (good question!).
+- 🌱 I’m currently learning WEB DEVELOPMENT.
